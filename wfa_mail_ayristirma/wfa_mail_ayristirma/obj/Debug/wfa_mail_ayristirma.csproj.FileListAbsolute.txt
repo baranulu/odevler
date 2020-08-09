@@ -1,0 +1,10 @@
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\bin\Debug\wfa_mail_ayristirma.exe.config
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\bin\Debug\wfa_mail_ayristirma.exe
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\bin\Debug\wfa_mail_ayristirma.pdb
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.csprojAssemblyReference.cache
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.form1.resources
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.Properties.Resources.resources
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.csproj.GenerateResource.cache
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.exe
+C:\Users\Msi\source\repos\wfa_mail_ayristirma\wfa_mail_ayristirma\obj\Debug\wfa_mail_ayristirma.pdb

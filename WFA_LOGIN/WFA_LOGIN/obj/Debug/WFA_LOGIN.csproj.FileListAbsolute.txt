@@ -1,0 +1,10 @@
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\bin\Debug\WFA_LOGIN.exe.config
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\bin\Debug\WFA_LOGIN.exe
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\bin\Debug\WFA_LOGIN.pdb
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.Form1.resources
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.Properties.Resources.resources
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.csproj.GenerateResource.cache
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.exe
+C:\Users\Msi\Desktop\ödevler\WFA_LOGIN\WFA_LOGIN\obj\Debug\WFA_LOGIN.pdb

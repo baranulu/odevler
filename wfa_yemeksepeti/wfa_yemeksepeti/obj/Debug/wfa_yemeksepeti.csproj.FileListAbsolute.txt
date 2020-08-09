@@ -1,0 +1,10 @@
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\bin\Debug\wfa_yemeksepeti.exe.config
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\bin\Debug\wfa_yemeksepeti.exe
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\bin\Debug\wfa_yemeksepeti.pdb
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.Form1.resources
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.Properties.Resources.resources
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.csproj.GenerateResource.cache
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.exe
+C:\Users\Msi\Desktop\ödevler\wfa_yemeksepeti\wfa_yemeksepeti\obj\Debug\wfa_yemeksepeti.pdb
