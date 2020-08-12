@@ -20,6 +20,26 @@ namespace wfa_mail_ayristirma
         
         private void form1_Load(object sender, EventArgs e)
         {
+
+            this.BackColor = Color.Maroon;
+           foreach(Control btn in Controls)
+            {
+                if(btn is Button)
+                {
+                    btn.BackColor = Color.DeepSkyBlue;
+                }
+                if(btn is ListBox)
+                {
+                    btn.BackColor = Color.LightGray;
+                }
+                {
+                    if(btn is Label)
+                    {
+                        btn.ForeColor = Color.DeepSkyBlue;
+                    }
+                }
+            }
+            
             MessageBox.Show("Birden fazla mail adresi girecekseniz,mailleri (;) ile ayiriniz.\nSpace tuşu kullanmayınız!","Bilgilendirme",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
 
@@ -84,5 +104,7 @@ namespace wfa_mail_ayristirma
             lblhotmailsayi.Text = default;
             lbllineage2sayi.Text = default;
         }
+
+       
     }
 }

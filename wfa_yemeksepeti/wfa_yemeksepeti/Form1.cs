@@ -29,7 +29,7 @@ namespace wfa_yemeksepeti
         }
 
 
-        decimal kebapfiyati = 22;
+        decimal kebapfiyati = 22.5M;
         decimal pilavfiyati = 6;
         decimal köftefiyati = 16;
 
