@@ -1,0 +1,5 @@
+C:\Users\Msi\source\repos\wfa_ödev_extension_metot\wfa_ödev_extension_metot\obj\Debug\wfa_ödev_extension_metot.csprojAssemblyReference.cache
+C:\Users\Msi\source\repos\wfa_ödev_extension_metot\wfa_ödev_extension_metot\obj\Debug\wfa_ödev_extension_metot.Form1.resources
+C:\Users\Msi\source\repos\wfa_ödev_extension_metot\wfa_ödev_extension_metot\obj\Debug\wfa_ödev_extension_metot.Properties.Resources.resources
+C:\Users\Msi\source\repos\wfa_ödev_extension_metot\wfa_ödev_extension_metot\obj\Debug\wfa_ödev_extension_metot.csproj.GenerateResource.cache
+C:\Users\Msi\source\repos\wfa_ödev_extension_metot\wfa_ödev_extension_metot\obj\Debug\wfa_ödev_extension_metot.csproj.CoreCompileInputs.cache
